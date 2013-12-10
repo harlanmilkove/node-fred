@@ -1,3 +1,4 @@
+--check-leaks
 --bail
 --reporter spec
 --recursive
