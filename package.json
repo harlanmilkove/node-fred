@@ -2,6 +2,10 @@
   "name": "fred",
   "version": "0.0.1",
   "description": "Federal Reserve Bank of St. Louis Federal Reserve Economic Data (FRED) API",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Reonomy/node-fred.git"
+  },
   "main": "lib/fred.js",
   "scripts": {
     "test": "mocha"
@@ -13,12 +17,16 @@
     "alfred",
     "api"
   ],
-  "author": "Guillermo A. Sanchez <memo@reonomy.com> (https://reonomy.com)",
+  "author": "Guillermo A. Sanchez <memo@reonomy.com> (http://reonomy.com)",
+  "license": "MIT",
+  "engines": {
+    "node": "0.10.x"
+  },
   "dependencies": {
-    "request": "~2.29.0",
-    "should": "~2.1.1"
+    "request": "~2.29.0"
   },
   "devDependencies": {
-    "mocha": "~1.15.1"
+    "mocha": "~1.15.1",
+    "should": "~2.1.1"
   }
 }

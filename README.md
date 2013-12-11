@@ -1,5 +1,5 @@
 # Fred
-![Fred Flintstone](http://f.cl.ly/items/1E2E1a2M1w1L3J1W0638/flintstones-fred1.gif)
+![FRED Logo](http://research.stlouisfed.org/images/fred-logo-2x.png)
 
 ### Installation
 `npm install fred`
