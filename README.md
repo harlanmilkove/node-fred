@@ -1,4 +1,4 @@
-# Fred
+# Fred [![Build Status](https://travis-ci.org/Reonomy/node-fred.png?branch=master)](https://travis-ci.org/Reonomy/node-fred)
 ![FRED Logo](http://research.stlouisfed.org/images/fred-logo-2x.png)
 
 ### Installation
