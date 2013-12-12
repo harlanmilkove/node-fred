@@ -20,7 +20,7 @@
   "author": "Guillermo A. Sanchez <memo@reonomy.com> (http://reonomy.com)",
   "license": "MIT",
   "engines": {
-    "node": ">=0.8.x"
+    "node": ">=0.8.0"
   },
   "dependencies": {
     "request": "~2.29.0"
